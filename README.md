@@ -41,8 +41,8 @@
 
 <h3 align="center">𝑪𝒐𝒏𝒕𝒂𝒄𝒕</h3>
  <div align="center">
-   <a href="hoseonh22@gmail.com">
+   <a href="mailto:hoseonh22@gmail.com">
      <img
-       src="https://img.shields.io/badge/gmail-cbeaee?style=for-the-badge&logo=gmail&logoColor=white"/>
+       src="https://img.shields.io/badge/gmail-cbeaee?style=for-the-badge&logo=gmail&logoColor=white&link=hoseonh22@gmail.com"/>
    </a>
  </div>
