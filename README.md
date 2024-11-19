@@ -5,7 +5,7 @@
   ╰ ◟◞ ͜ ◟ ͜ ◟◞ ͜ ◟ ͜ ◟◞◟◞╯<br/>
 ⠀⠀⠀⠀ O<br/>
 ⠀⠀⠀⠀⠀ °</p>
-  <img src="https://th.bing.com/th/id/OIG2.N6o6s1hH8PuPTNm8mu3e?pid=ImgGn" width="200" height="200"/>
+  <img src="https://th.bing.com/th/id/OIG2.N6o6s1hH8PuPTNm8mu3e?pid=ImgGn" width="100" height="100"/>
  </div>
 </div>
 
