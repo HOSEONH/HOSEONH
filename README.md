@@ -9,7 +9,7 @@
  </div>
 </div>
 
-<h3 align="center">✨ ✨ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 ✨ ✨</h3>
+<h3 align="center">𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/next.js-f4d0eb?style=for-the-badge&logo=next.js&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/react-cfeff5?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -35,12 +35,14 @@
    <img src="https://img.shields.io/badge/figma-d0f5e3.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/Notion-edacb1.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
  </div>
-</div>
+</div> 
+
+<br>
 
 <h3 align="center">𝑪𝒐𝒏𝒕𝒂𝒄𝒕</h3>
  <div align="center">
    <a href="hoseonh22@gmail.com">
      <img
-       src="https://img.shields.io/badge/gmail-cbeaee?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+       src="https://img.shields.io/badge/gmail-cbeaee?style=for-the-badge&logo=gmail&logoColor=white"/>
    </a>
  </div>
