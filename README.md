@@ -1,15 +1,5 @@
-<div align="center">
- <div>
-  <p>╭ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◜◝ ╮<br/> 
-  ♡ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🐟  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;♡<br/>
-  ╰ ◟◞ ͜ ◟ ͜ ◟◞ ͜ ◟ ͜ ◟◞◟◞╯<br/>
-⠀⠀⠀⠀ O<br/>
-⠀⠀⠀⠀⠀ °</p>
-  <img src="https://th.bing.com/th/id/OIG2.N6o6s1hH8PuPTNm8mu3e?pid=ImgGn" width="100" height="100"/>
- </div>
-</div>
 
-<h3 align="center">𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌</h3>
+<h3 align="center">𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/next.js-F4D0EB?style=for-the-badge&logo=next.js&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/react-cfeff5?style=for-the-badge&logo=react&logoColor=white" />&nbsp
@@ -24,7 +14,7 @@
 
 <br>
 
-<h3 align="center">𝑻𝒐𝒐𝒍𝒔</h3>
+<h3 align="center">𝗧𝗼𝗼𝗹𝘀</h3>
  <div align="center">
    <img src="https://img.shields.io/badge/git-f5d0d7.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/github-ffe3e8.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -39,7 +29,7 @@
 
 <br>
 
-<h3 align="center">𝑪𝒐𝒏𝒕𝒂𝒄𝒕</h3>
+<h3 align="center">𝗖𝗼𝗻𝘁𝗮𝗰𝘁</h3>
  <div align="center">
    <a href="mailto:hoseonh22@gmail.com">
      <img
